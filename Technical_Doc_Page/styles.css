@@ -1,3 +1,7 @@
-/* .main-section{
-  
-} */
+.main-section{
+  font-family: Arial, Helvetica, sans-serif;
+} 
+
+@media screen{
+    min-width: 480px;
+  }
