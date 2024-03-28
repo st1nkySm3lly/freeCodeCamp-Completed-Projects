@@ -1,0 +1,9 @@
+@media screen and (min-width: 480px) {
+    
+}
+
+.video{
+    height: 300px;
+    width: 500;
+    border: none;
+}
