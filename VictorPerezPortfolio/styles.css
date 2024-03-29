@@ -1,0 +1,38 @@
+@media screen and (max-width: 900px){
+    .body{
+        background-color: whitesmoke;
+    }
+}
+
+.ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.li{
+    display: inline;
+}
+
+.navbar{
+    background-color: paleturquoise;
+    overflow: hidden;
+    
+}
+
+.navbar a{
+    float: left;
+    color: whitesmoke;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+/* .navbar a:hover{
+    background-color: lightgrey;
+    color: black;
+} */
