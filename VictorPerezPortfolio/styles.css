@@ -1,10 +1,10 @@
 @media screen and (max-width: 900px){
-    .body{
-        background-color: whitesmoke;
+    section{
+        background-color: rgb(128, 128, 129);
     }
 }
 
-.ul{
+ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -13,26 +13,23 @@
     width: 100%;
 }
 
-.li{
+li{
     display: inline;
+    float: right;
+
 }
 
-.navbar{
-    background-color: paleturquoise;
+nav{
     overflow: hidden;
     
 }
 
-.navbar a{
+nav a{
     float: left;
-    color: whitesmoke;
+    color: black;
     text-align: center;
     padding: 12px 14px;
     text-decoration: none;
     font-size: 15px;
+    background-color: gray;
 }
-
-/* .navbar a:hover{
-    background-color: lightgrey;
-    color: black;
-} */
